@@ -1,4 +1,4 @@
-// Problem No.15
+// Problem No.16
 // Find the min val in array
 
 const findMin = (arr) => {

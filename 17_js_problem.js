@@ -1,4 +1,4 @@
-// Problem No.15
+// Problem No.17
 // Write a function to convert a string to camelCase & snack_case
 
 const toCamelCase = (str)=>{
